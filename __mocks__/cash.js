@@ -1,6 +1,3 @@
-
-    
-        
 const cash = {    
    coin1: {
         name: "five pence",
@@ -37,6 +34,6 @@ const cash = {
         value: 2.00,
         quantity: 30,
         
-    },
+    }
 }
 module.exports = cash;
