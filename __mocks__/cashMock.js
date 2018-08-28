@@ -3,7 +3,7 @@ module.exports = [
     {
         name: "five pence",
         value: 0.05,
-        quantity: 70,
+        quantity: 100,
 
     },
     {
