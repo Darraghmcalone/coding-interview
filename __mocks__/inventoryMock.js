@@ -10,7 +10,7 @@ module.exports = [
 
         product: 'twix',
         quantity: 6,
-        price: 0.80
+        price: 1.50
 
     },
 
